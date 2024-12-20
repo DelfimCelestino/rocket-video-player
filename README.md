@@ -38,7 +38,7 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/rocket-video-player.git
+git clone https://github.com/DelfimCelestino/rocket-video-player.git
 ```
 
 2. Install dependencies:
@@ -86,4 +86,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [Delfim Celestino](https://github.com/DelfimCelestino)
